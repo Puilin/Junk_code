@@ -1,0 +1,3 @@
+﻿  예제3.c
+C:\Users\son\Desktop\학업\C lan\C programming\C programming\예제3.c(6,17): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  C programming.vcxproj -> C:\Users\son\Desktop\학업\C lan\C programming\x64\Debug\C programming.exe
